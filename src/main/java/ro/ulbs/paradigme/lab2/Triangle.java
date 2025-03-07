@@ -1,6 +1,6 @@
 package ro.ulbs.paradigme.lab2;
 
-public class Triangle {
+public class Triangle  {
     private float height;
     private float base;
     public Triangle(){
